@@ -1,4 +1,4 @@
-# Guide-VueRestPostgreSQL
+# VueRestPostgreSQL-backend
 Proyecto vue para consumir un servicio rest
 
 El proyecto consta de una vista desarrollada con Vue cli
